@@ -14,7 +14,7 @@ from understanding the basics to solving problems and figuring out the logic beh
 More topics will find their way here as I keep learning.
 
 ### 🎯 The idea behind it
-Not just writing code, but understanding *why it works*. Every file is a small step forward.
+Not just writing code, but understanding *why it works*. 
 
 ---
 
